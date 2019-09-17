@@ -8,6 +8,7 @@ A minimal php application using fatfreeframework for bootstrapping
 - Provision vagrant: `cd bootstrap-php/vagrant && vagrant up`
 
 #### Install dependencies
+- `cd bootstrap-php/vagrant && vagrant ssh`
 - `cd /vagrant/bootstrap-php`
 - `php composer.phar install`
 
