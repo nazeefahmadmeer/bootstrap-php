@@ -1,0 +1,6 @@
+### Vagrant ###
+vagrant/.vagrant/
+*.box
+
+### Vendor ###
+vendor/
