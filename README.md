@@ -18,7 +18,7 @@ Your app should be available at http://192.168.69.10
 
 ```
 cd bootstrap-php/docker
- && docker-compose up
+docker-compose up
 ```
 
 Your app should be available at http://0.0.0.0
